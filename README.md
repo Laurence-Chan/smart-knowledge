@@ -35,10 +35,6 @@
 
 <img width="1391" height="628" alt="截屏2025-09-30 上午4 21 58" src="https://github.com/user-attachments/assets/30872684-d9ec-4e8c-be90-a639953523a8" />
 
-- 实时相似度计算
-- 可选推荐理由生成
-- 侧边栏无打扰显示
-
 ### 🎯 多模型支持
 灵活配置 AI 服务提供商：
 
