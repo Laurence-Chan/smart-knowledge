@@ -47,8 +47,8 @@
 ### 1. 安装插件
 
 #### 方式：手动安装
-1. 下载最新版本
-2. 解压到 `[你的库]/.obsidian/plugins/smart-knowledge/`
+1. 下载 main.js, styles.css, manifest.json 三个文件 
+2. 放到文件夹： `[你的库]/.obsidian/plugins/smart-knowledge-plugin/`
 3. 在 Obsidian 设置中启用插件
 
 ### 2. 配置 API
